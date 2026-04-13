@@ -1,6 +1,6 @@
 {
   "server_uri": "wss://158.174.102.126:8765",
-  "cert_file": "C:/Users/12ERR001/Andra filer/lulea.se.crt",
+  "cert_file": "C:/Users/USER/Andra filer/lulea.se.crt",
   "fixed_id": "67677",
   "autostart": true,
   "headless": true,
